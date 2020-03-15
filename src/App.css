@@ -1,0 +1,24 @@
+.leaflet-container {
+  width: 100%;
+  height: 100vh;
+}
+.filterMountains {
+  position: absolute;
+  left: 30px;
+  z-index: 999;
+  width: 175px;
+  height: auto;
+  background: rgba(255, 255, 255, 0.699);
+  margin: 10px;
+  font-size: 13px;
+  padding: 5px;
+  padding-bottom: 10px;
+  border-radius: 5px;
+}
+.filterMountains select {
+  display: block;
+  margin: 0 auto;
+}
+.info {
+  font-size: 14px;
+}
